@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #662f2f, #9198e5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.converter-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 3, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.container-1 label{
+    font-size: 20px;
+}
+.container-2{
+    margin-top: 15px;
+}
+.container-2 label{
+    font-size: 20px;
+}
+}
